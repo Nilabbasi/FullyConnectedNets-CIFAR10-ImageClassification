@@ -104,8 +104,8 @@ pip install torch torchvision numpy matplotlib
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/   i HAVE TO WRITE MY REPO NAME HERE / FINAL NAME :).git
-   cd MY-repo-name
+   git clone https://github.com/Nilabbasi/FullyConnectedNets-CIFAR10-ImageClassification.git
+   cd FullyConnectedNets-CIFAR10-ImageClassification
    ```
 2. Run the Jupyter notebook:
    ```bash
